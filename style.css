@@ -1,0 +1,47 @@
+body {
+    background-color: #06799F;
+    font-family: sans-serif;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+header{
+    background-color: #8ad2eb;
+    border: 10px solid #024E68;
+    border-radius: 10px;
+    padding: 0px 15px 0px 15px;
+    margin: 20px;
+}
+
+h1{
+    background-color: #8ad2eb;
+    text-align: center;
+    border-top: 10px dashed #024E68;
+    border-bottom: 10px dashed #024E68;
+}
+
+.pisatel{
+    background-color: #8ad2eb;
+    border: 15px solid #024E68;
+    border-radius: 20px;
+    padding: 0px 20px 0px 20px;
+}
+
+.opisanie{
+    border-bottom: 10px dashed #024E68;
+}
+
+.tvorchestvo{
+    border-bottom: 10px dashed #024E68;
+}
+
+footer{
+    background-color: #8ad2eb;
+    border: 15px solid #024E68;
+    border-radius: 20px;
+    padding: 0px 20px 0px 20px;
+    margin: 20px;
+}
+
+
+
